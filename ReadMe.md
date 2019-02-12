@@ -1,6 +1,6 @@
-# WebKit
+# Terracotta
 
-WebKit is a cross-platform web browser engine. On iOS and macOS, it powers Safari, Mail, iBooks, and many other applications.
+Terracotta is an open source browser engine focused on being lightweight and fast. It is primarily designed for the Apathy browser, however it can be used for other browsers
 
 ## Feature Status
 
