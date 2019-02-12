@@ -8,5 +8,5 @@ Download the Apathy Nightly from apathyweb.weebly.com/nightly
 
 ### Reporting Bugs
 
-Visit the bug report GitHub tab.
+Please visit the issues page on the Apathy GitHub project
 
